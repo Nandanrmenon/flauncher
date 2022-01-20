@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
     <!-- allows startup after boot -->
     <application
-        android:label="flauncher"
+        android:label="Flowch"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
